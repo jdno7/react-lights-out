@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+}
+
+.Board-row {
+  width: 100%;
+  background-color: blue;
+}
